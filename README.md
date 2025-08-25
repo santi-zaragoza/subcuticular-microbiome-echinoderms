@@ -1,4 +1,4 @@
-# subcuticular-microbiome-echinoderms
+# EchinoMicrobiomeAnalysis
 
 ## 0. Note on Scripts and Data
 
